@@ -33,13 +33,13 @@ html {
 .custom-font-1{
 	font-family:"Poppins", Arial, Helvetica, sans-serif;
 	font-size:18px;
-	font-weight:bold;	
+	font-weight:bold;
 }
 
 .custom-font-2{
 	font-family:"Poppins", Arial, Helvetica, sans-serif;
 	font-size:56px;
-	font-weight:bold;	
+	font-weight:bold;
 	line-height:1.1em;
 }
 
@@ -72,7 +72,7 @@ a.btn-slider{
 }
 
 .border-v{
-	width:1px;	
+	width:1px;
 	height:300px;
 	background:rgba(255,255,255,.5);
 }
