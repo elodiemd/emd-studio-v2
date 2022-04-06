@@ -77,6 +77,18 @@
 
 
 /* ================================================== */
+.logo img {
+  height: 50px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.logo-menu {
+  height: 50px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
 
 html {
 	overflow-x: hidden;
@@ -92,7 +104,7 @@ body {
 	line-height: 1.7em;
 	padding: 0;
 	display: none;
-	background:#e4e7e9;
+	background:white;
 }
 body.boxed {
 	margin: 30px;
@@ -203,7 +215,7 @@ header.autoshow.scrollOff {
 header div#logo {
 	display: inline-block;
 	height: 100%;
-	font-family: "Poppins", sans-serif;
+	font-family: "Playfair", sans-serif;
 	font-weight:bold;
 	font-size:24px;
 	color: white;
@@ -217,6 +229,7 @@ header div#logo {
 header div#logo a{
 	color:#ffffff;
 }
+
 header.header-mobile div#logo a{
 	color:#35404e;
 }
@@ -2487,9 +2500,9 @@ h1, h2, h4, h3, h5, h6,
 footer.footer-light h5, header.header-light div#logo a,
 header.smaller.scroll-light div#logo a {
 	margin-top:0;
-	font-family: "Poppins";
+	font-family: "Playfair";
 	font-weight: bold;
-	color: #35404e;
+	color: #212529;
 }
 footer h1, footer h2, footer h4, footer h4, footer h5, footer h6 {
 	color: #fff;

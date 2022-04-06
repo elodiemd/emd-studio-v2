@@ -31,20 +31,20 @@ html {
 }
 
 .custom-font-1{
-	font-family:"Poppins", Arial, Helvetica, sans-serif;
+	font-family:"Playfair", Arial, Helvetica, sans-serif;
 	font-size:18px;
 	font-weight:bold;
 }
 
 .custom-font-2{
-	font-family:"Poppins", Arial, Helvetica, sans-serif;
+	font-family:"Playfair", Arial, Helvetica, sans-serif;
 	font-size:56px;
 	font-weight:bold;
 	line-height:1.1em;
 }
 
 .custom-font-3{
-	font-family:"Poppins", Arial, Helvetica, sans-serif;
+	font-family:"Playfair", Arial, Helvetica, sans-serif;
 	font-size:48px;
 	font-weight:bold;
 	line-height:1.1em;
@@ -58,7 +58,7 @@ html {
 }
 
 a.btn-slider{
-	font-family:"Poppins";
+	font-family:"Playfair";
 	display:block;
 	border:solid 1px #fff;
 	color:#fff;
